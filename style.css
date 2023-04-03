@@ -5,15 +5,55 @@
 .heading {
     background: burlywood;
     color: royalblue;
+    width: 90%;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 
 
 .test_images {
-    background: lightslategray;
-    color: wheat;
-}
+    
+        margin-top: 15px;
+        background-color: rgb(155, 153, 153);
+        border-radius: 10px;
+        box-shadow: 1px 1px 25px grey;
+        width:99%;
+        padding-bottom: 25px;
+    }
+
 
 .Timage {
+
+margin-top: 10px;
+margin-bottom: 10px;
 height: 300px;
+border-radius: 10px;
+}
+h5 {
+    background: white;
+    width: 30%;
+  font-size: 20px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+b {
+    color: blueviolet;
+}
+
+.output {
+    color: red;
+}
+
+#conclusion {
+    background: pink;
+    width: 50%;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+h4 {
+    color: white;
 }
